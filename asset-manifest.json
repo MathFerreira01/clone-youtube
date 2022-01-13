@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/clone-youtube/static/js/main.6e16387c.js",
+    "static/media/thumb1.png": "/clone-youtube/static/media/thumb1.7be2fd93cac03e955ea4.png",
+    "static/media/preto.png": "/clone-youtube/static/media/preto.f974c09ac6b1d4496df6.png",
+    "index.html": "/clone-youtube/index.html",
+    "main.6e16387c.js.map": "/clone-youtube/static/js/main.6e16387c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6e16387c.js"
+  ]
+}
